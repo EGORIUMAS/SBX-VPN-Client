@@ -1,4 +1,4 @@
-# CLI-VPN-Client
+# SBX-VPN-Client
 
 `sbx` — консольный VPN-клиент для Linux поверх [sing-box](https://sing-box.sagernet.org).
 Без графической оболочки: подписки, выбор сервера, проверка задержек, TUN или прокси,
