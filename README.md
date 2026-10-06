@@ -46,8 +46,8 @@
 ## Установка
 
 ```bash
-git clone https://github.com/EGORIUMAS/CLI-VPN-Client
-install -Dm755 CLI-VPN-Client/sbx.py ~/.local/bin/sbx
+git clone https://github.com/EGORIUMAS/SBX-VPN-Client
+install -Dm755 SBX-VPN-Client/sbx.py ~/.local/bin/sbx
 ```
 
 ## Использование
